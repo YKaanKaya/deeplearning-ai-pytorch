@@ -1,0 +1,11 @@
+matplotlib==3.9.0
+numpy==2.3.2
+requests==2.32.5
+scipy==1.16.2
+pillow==11.3.0
+torch==2.6.0
+torchvision==0.21.0
+directory_tree==1.0.0
+fastai==2.8.4
+tqdm==4.67.1
+ipywidgets==8.0.2

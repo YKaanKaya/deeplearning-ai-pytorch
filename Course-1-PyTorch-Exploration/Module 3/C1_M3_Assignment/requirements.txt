@@ -1,0 +1,11 @@
+pandas==2.2.3
+torch==2.6.0
+torchvision==0.21.0
+pillow==11.3.0
+matplotlib==3.9.0
+numpy==2.3.2
+directory_tree==1.0.0
+fastai==2.8.4
+dlai_grader
+tqdm==4.67.1
+ipywidgets==8.0.2

@@ -1,0 +1,6 @@
+torch==2.6.0
+torchvision==0.21.0
+dlai_grader
+matplotlib==3.9.0
+numpy==2.3.2
+scikit-learn==1.6.1
